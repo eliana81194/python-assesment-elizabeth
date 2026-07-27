@@ -1,0 +1,20 @@
+
+# Student Information
+student_name = "Elizabeth"
+course_name = "Python Programming"
+student_age = 22
+# Display student information
+print("Student Name:", student_name)
+print("Course:", course_name)
+print("Age:", student_age)
+# Variable assignments
+school_name = "Cooperative University"
+units_completed = 6
+course_fee = 25000.50
+print("School:", school_name)
+print("Units Completed:", units_completed)
+print("Course Fee:", course_fee)
+# Calculate the remaining units
+total_units = 8
+remaining_units = total_units - units_completed
+print("Remaining Units:", remaining_units)
